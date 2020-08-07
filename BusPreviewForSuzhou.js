@@ -1,9 +1,9 @@
 /******* config ***********/
 
-var stopID    = 10003177; // 独墅湖图书馆id
-var stopName  = "独墅湖图书馆";
-var lineID    = "10000522";
-var busName   = "110(南线)";
+var stopID    = 10004184; // 东渚id
+var stopName  = "东渚";
+var lineID    = "10000414";
+var busName   = "336(青花路)";
 var url       = "http://app.2500.tv/bus/api_line_status.php";
 var result    = "未知";
 var current   = 200;
