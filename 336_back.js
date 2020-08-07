@@ -2,7 +2,7 @@
 
 var stopID    = 10003160; // 爱科赛博id
 var stopName  = "嘉陵山路五台山路南";
-var lineID    = "1000351";
+var lineID    = "10000351";
 var busName   = "336(回家)";
 var url       = "http://app.2500.tv/bus1/api_line_status_a.php";
 var result    = "未知";
