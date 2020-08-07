@@ -4,7 +4,7 @@ var stopID    = 10004184; // 东渚id
 var stopName  = "东渚";
 var lineID    = "10000414";
 var busName   = "336(青花路)";
-var url       = "http://app.2500.tv/bus1/lineInfo1.php";
+var url       = "http://app.2500.tv/bus1/api_line_status_a.php";
 var result    = "未知";
 var current   = 200;
 
